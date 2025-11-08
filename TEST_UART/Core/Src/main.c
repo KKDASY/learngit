@@ -24,6 +24,11 @@
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 #include "stdio.h"
+#include <cstdint>
+#include <stm32f1xx_hal_rcc.h>
+#include <stm32_hal_legacy.h>
+#include <stm32f1xx_hal_rcc_ex.h>
+#include <stm32f1xx_hal_flash.h>
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
